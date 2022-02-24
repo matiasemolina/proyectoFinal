@@ -1,0 +1,58 @@
+body{
+    font-family: 'Roboto', sans-serif;
+    background-color: #d3d3d3;
+}
+
+.navBar{
+    border: 1px;
+    background-color: #1b020250;
+    padding: 0%;
+    width: 90%;
+    margin: 10px;
+}
+
+.navBar li{
+    display: inline-block;
+    text-align: left;
+}
+
+.navBar li a{
+    font-weight: 400;
+    font-size: 20px;
+    position: relative;
+    text-decoration: none;
+    display: block;
+    padding: 20px;
+    color: #ffffff;
+}
+
+.button{
+    border: 10px;
+    border: black;
+    width: 600px;
+    height: 60px;
+    font-size: 40px;
+    border-style: double;
+}
+
+.slider{
+  background-color: #c2c2c2b4;
+  width: 90%;
+  padding: 100px;
+  margin: -10px;
+}
+.background{
+    width: 90%;
+    height: 90%;
+    border-radius: 10px;
+}
+.figcap{
+    color: #ffffff;
+    background-color: #2e2e2e0c;
+    width: 300px;
+}
+
+footer{
+  font: bolder; 
+  background-color: #d3d3d3;
+}
